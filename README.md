@@ -1,1 +1,1 @@
-Coordinates calculator for CHNO in tetrahedron
+**Coordinates calculator for CHNO in tetrahedron**
